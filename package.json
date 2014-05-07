@@ -1,0 +1,37 @@
+{
+  "name": "middlebot-primus",
+  "version": "0.0.0",
+  "description": "Primus broadcast middleware.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "middlebot": "^0.2.0",
+    "middleman": "^0.1.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "middlebot": "^0.2.0",
+    "mocha": "^1.18.2",
+    "sinon": "^1.9.1",
+    "sinon-chai": "^2.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lemonde/middlebot-primus.git"
+  },
+  "keywords": [
+    "middlebot",
+    "primus"
+  ],
+  "author": "Greg Bergé <berge.greg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemonde/middlebot-primus/issues"
+  },
+  "homepage": "https://github.com/lemonde/middlebot-primus"
+}
