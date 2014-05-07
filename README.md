@@ -5,7 +5,7 @@ Primus broadcast middleware.
 ## Install
 
 ```sh
-npm install https://github.com/lemonde/middlebot-primus.git
+npm install middlebot-primus
 ```
 
 ## Usage
