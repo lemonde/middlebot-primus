@@ -6,13 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "middlebot": "^0.2.0",
-    "middleman": "^0.1.0"
-  },
   "devDependencies": {
     "chai": "^1.9.1",
-    "middlebot": "^0.2.0",
+    "middlebot": "^0.3.0",
     "mocha": "^1.18.2",
     "sinon": "^1.9.1",
     "sinon-chai": "^2.5.0"
