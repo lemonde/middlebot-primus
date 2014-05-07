@@ -16,6 +16,7 @@ npm install middlebot-primus
 
 ```js
 var middlebot = require('middlebot');
+var middlebotPrimus = require('middlebot-primus');
 var app = middlebot();
 
 // Will broadcast an event "test" with `res.body` as first argument.
