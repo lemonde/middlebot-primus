@@ -1,5 +1,9 @@
 # middlebot-primus
 
+[![Build Status](https://travis-ci.org/lemonde/middlebot-primus.svg?branch=master)](https://travis-ci.org/lemonde/middlebot-primus)
+[![Dependency Status](https://david-dm.org/lemonde/middlebot-primus.svg?theme=shields.io)](https://david-dm.org/lemonde/middlebot-primus)
+[![devDependency Status](https://david-dm.org/lemonde/middlebot-primus/dev-status.svg?theme=shields.io)](https://david-dm.org/lemonde/middlebot-primus#info=devDependencies)
+
 Primus broadcast middleware.
 
 ## Install
